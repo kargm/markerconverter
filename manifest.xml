@@ -1,0 +1,17 @@
+<package>
+  <description brief="markerconverter">
+
+     markerconverter
+
+  </description>
+  <author>grubert</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/markerconverter</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="ar_kinect"/>
+
+</package>
+
+
